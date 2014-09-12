@@ -8,5 +8,7 @@
 
 bool verbose = false;
 
+char *format = "xml";
+
 CURL *curl;
 CURLcode res;
